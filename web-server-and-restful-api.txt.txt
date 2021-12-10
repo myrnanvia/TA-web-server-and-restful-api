@@ -1,0 +1,25 @@
+1. Website Statis (Static Website) adalah sebuah website yang kontennya statis / tidak berubah-ubah, 
+sedangkan website Dinamis (Dynamic Website) adalah jenis halaman web yang disusun oleh konten dan layout yang kaya akan informasi didalamnya. Dinamakan website Dinamis karena kontennya dapat berubah-ubah.
+Di dalam web statis, tidak terdapat interaksi antara pengunjung dengan pemilik web. Sedangkan dalam web dinamis, antara pengunjung dan pemilik web itu dapat saling berinteraksi satu sama lain
+Untuk web statis itu tidak menggunakan database sama sekali karena tidak ada data yang perlu disave atau diproses. Sedangkan untuk web dinamis, menggunakan database seperti mysql, dll untuk menyimpan dan memproses data.
+
+2. Dalam static site struktur program utamanya terdiri dari HTML, terdapat web server yang berfungsi untuk menerima permintaan (request) dan mengirimkan perimntaan (response) melalui HTTP atau HTTPS dalam bentuk halaman-halaman web yang umumnya berbentuk dokumen HTML.
+Untuk dynamic site  selain terdapat web server di dalam arsitektur terdapat suatu gateway yang bernama Server Side Scripting  yang merupakan sebuah teknologi scripting atau pemrograman web dimana script (program) dikompilasi atau diterjemahkan di server. 
+Dengan adanya teknologi ini, memungkinkan untuk mengahasilakn halaman web yang dinamis.
+
+3. Pemrosesan data pengguna.
+Memberikan tampilan kepada pengguna, umumnya dalam format HTML + CSS.
+Berinteraksi dengan sistem penyimpanan data (mis: database, file).
+Berinteraksi dengan server lainnya.
+
+4. Apa itu restfull Web Services?
+Hasil gambar untuk apa itu RESTful
+RESTful merupakan sebutan untuk web services yang menerapkan arsitektur REST. Ia bisa disebut juga sebagai API (application program interface) karena digunakan untuk menjembatani antara sistem yang berbeda (client dan server)
+
+5. GET = ambil data
+POST = buat data baru
+PUT = update data secara keseluruhan
+PATCH = update data sebagian
+DELETE = hapus data
+
+6. Kode-kode ini membantu mengidentifikasikan masalah ketika ada sebuah halaman web atau resource yang tidak termuat dengan benar
